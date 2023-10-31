@@ -16,8 +16,9 @@ const cesta = {
         nomeFazenda:"Fazenda do José",
         descricao:"Uma cesta com produtos selecionados para você",
         preco:"R$ 45,00",
-        botao:"Comprar"
-
+    },
+    botao: {
+      botao: "Comprar"
     },
     itens: {
         titulo: "Itens da cesta",
